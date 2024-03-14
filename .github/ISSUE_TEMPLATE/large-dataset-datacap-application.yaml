@@ -333,14 +333,6 @@ body:
       - 6PiB
       - 7PiB
       - 8PiB
-      - 9PiB
-      - 10PiB
-      - 11PiB
-      - 12PiB
-      - 13PiB
-      - 14PiB
-      - 15PiB
-      - More Than 15PiB
   validations:
     required: true
 - type: input
@@ -352,9 +344,6 @@ body:
   attributes:
     label: Number of replicas to store
     options:
-      - 1
-      - 2
-      - 3
       - 4
       - 5
       - 6
