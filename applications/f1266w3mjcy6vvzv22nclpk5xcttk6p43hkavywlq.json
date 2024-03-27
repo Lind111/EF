@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "ID": "f1266w3mjcy6vvzv22nclpk5xcttk6p43hkavywlq",
+  "Issue Number": "4",
+  "Client": {
+    "Name": "Beijing Zhongnong Leaf Eating Grass Natural Science Research Institute",
+    "Region": "China",
+    "Industry": "Life Science / Healthcare",
+    "Website": "no",
+    "Social Media": "QQ 3415634156",
+    "Social Media Type": "Other",
+    "Role": "Dataset Owner"
+  },
+  "Project": {
+    "Project Id": "1",
+    "Brief history of your project and organization": "北京中农食用叶草自然科学研究院（前身为北京中科全脑自然科学研究所）成立于2018年，位于北京。它是一家主要从事研究和实验开发的企业。企业注册资本为人民币100万元。",
+    "Is this project associated with other projects/ecosystem stakeholders?": "No",
+    "Describe the data being stored onto Filecoin": "病毒核酸序列数据集、病毒核酸数据集、蛋白质序列数据库、细菌数据集、古菌数据集等",
+    "Where was the data currently stored in this dataset sourced from": "My Own Storage Infra",
+    "How do you plan to prepare the dataset": "已经申请过大数据，有相关经验，可以参考\r\nhttps://github.com/filecoin-project/filecoin-plus-large-datasets/issues/2090",
+    "Please share a sample of the data (a link to a file, an image, a table, etc., are good ways to do this.)": "RNA DNA\r\nhttps://www.alipan.com/s/sQwUTZyzeEs",
+    "Confirm that this is a public dataset that can be retrieved by anyone on the network (i.e., no specific permissions or access rights are required to view the data)": "[X] I confirm",
+    "What is the expected retrieval frequency for this data": "Monthly",
+    "For how long do you plan to keep this dataset stored on Filecoin": "More than 3 years",
+    "In which geographies do you plan on making storage deals": "Greater China, Asia other than Greater China, North America, South America, Europe",
+    "How will you be distributing your data to storage providers": "HTTP or FTP server, Shipping hard drives",
+    "Please list the provider IDs and location of the storage providers you will be working with. Note that it is a requirement to list a minimum of 5 unique provider IDs, and that your client address will be verified against this list in the future": "f02816666 Huhehaote\r\nf01128206 Hong Kong\r\nf02215209 Californial\r\nf02237006 Singapore\r\nnew   guangzhou",
+    "Can you confirm that you will follow the Fil+ guideline (Data owner should engage at least 4 SPs and no single SP ID should receive >30% of a client's allocated DataCap)": "Yes"
+  },
+  "Datacap": {
+    "Type": "ldn-v3",
+    "Data Type": "Slingshot",
+    "Total Requested Amount": "8PiB",
+    "Single Size Dataset": "2PiB",
+    "Replicas": 5,
+    "Weekly Allocation": "1PiB"
+  },
+  "Lifecycle": {
+    "State": "Granted",
+    "Validated At": "2024-03-27 00:40:09.135039335 UTC",
+    "Validated By": "Lind111",
+    "Active": true,
+    "Updated At": "2024-03-27 01:34:31.282153560 UTC",
+    "Active Request ID": "62b7ef0e-5f55-4d62-b977-3f62784ea9b0",
+    "On Chain Address": "f1266w3mjcy6vvzv22nclpk5xcttk6p43hkavywlq",
+    "Multisig Address": "false"
+  },
+  "Allocation Requests": [
+    {
+      "ID": "62b7ef0e-5f55-4d62-b977-3f62784ea9b0",
+      "Request Type": "First",
+      "Created At": "2024-03-27 00:40:09.135044640 UTC",
+      "Updated At": "2024-03-27 00:40:09.135045398 UTC",
+      "Active": false,
+      "Allocation Amount": "1PiB",
+      "Signers": [
+        {
+          "Github Username": "Lind111",
+          "Signing Address": "f1x73gpwnreqnp3wtc77mxvi2mfki4effi37j4hhi",
+          "Created At": "2024-03-27 01:34:22.209000000 UTC",
+          "Message CID": "bafy2bzacecreho4s4sqvgn2lfu4y34otogx35bd6tec2ii6272euindh2lebe"
+        }
+      ]
+    }
+  ]
+}
