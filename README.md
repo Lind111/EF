@@ -2,6 +2,8 @@
 
 Welcome to the GitHub repository dedicated to managing the Lifecycle Data Notations (LDN) Applications for a specific Filecoin Plus DataCap allocator team. This repository serves as a public ledger for DataCap allocation requests and tracking, facilitating transparency and efficiency in the process.
 
+# First, please click on [this link](https://github.com/filecoin-project/notary-governance/issues/1056#issuecomment-1890621214) to view my allocation rules
+
 ## Overview
 
 Filecoin Plus (Fil+) enhances the utility of Filecoin by not just storing data, but also verifying the usefulness of the data being stored. DataCap is allocated to clients based on their storage needs and the value their data brings to the Filecoin network. Our team, operating under a shared multisig wallet, acts as an allocator of DataCap, assessing and verifying client requests.
