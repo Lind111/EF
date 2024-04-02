@@ -33,32 +33,32 @@
     "Total Requested Amount": "8PiB",
     "Single Size Dataset": "1.5PiB",
     "Replicas": 6,
-    "Weekly Allocation": "400TiB"
+    "Weekly Allocation": "800TiB"
   },
   "Lifecycle": {
     "State": "Granted",
-    "Validated At": "2024-03-30 06:01:14.466231054 UTC",
+    "Validated At": "2024-04-02 07:10:36.961435752 UTC",
     "Validated By": "Lind111",
     "Active": true,
-    "Updated At": "2024-03-30 06:05:51.874872191 UTC",
-    "Active Request ID": "7282335b-882c-4e50-b066-23b8eb8ae8a8",
+    "Updated At": "2024-04-02 07:11:48.051964570 UTC",
+    "Active Request ID": "7fa3f77f-6626-4be6-adc6-9c3805c84f0c",
     "On Chain Address": "f1txfwjexmp4gp3dqdglgc3i7qacnyseocs4cecky",
     "Multisig Address": "false"
   },
   "Allocation Requests": [
     {
-      "ID": "7282335b-882c-4e50-b066-23b8eb8ae8a8",
+      "ID": "7fa3f77f-6626-4be6-adc6-9c3805c84f0c",
       "Request Type": "First",
-      "Created At": "2024-03-30 06:01:14.466235954 UTC",
-      "Updated At": "2024-03-30 06:01:14.466236918 UTC",
+      "Created At": "2024-04-02 07:10:36.961440771 UTC",
+      "Updated At": "2024-04-02 07:10:36.961441552 UTC",
       "Active": false,
-      "Allocation Amount": "400TiB",
+      "Allocation Amount": "800TiB",
       "Signers": [
         {
           "Github Username": "Lind111",
           "Signing Address": "f1edi46m4ry7smqnk3p6nb4azmcythf4bl57lw3uy",
-          "Created At": "2024-03-30 06:05:51.435000000 UTC",
-          "Message CID": "bafy2bzacebyjkzwpuq63izlqufvk5gqzwzhfe5owvdpppro6tmbxcgl3ppkbc"
+          "Created At": "2024-04-02 07:11:33.903000000 UTC",
+          "Message CID": "bafy2bzacecutbachbwl3h6jlimtx7how3xvigqxi7wdjluq2iqzr2d3ncgfou"
         }
       ]
     }
