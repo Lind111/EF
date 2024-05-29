@@ -1,0 +1,66 @@
+{
+  "Version": "1.3",
+  "ID": "f1ilhecgewngpi3tplaarzkklihvdeko6p2bcishi",
+  "Issue Number": "14",
+  "Client": {
+    "Name": "The Second Life",
+    "Region": "China",
+    "Industry": "IT & Technology Services",
+    "Website": "https://mp.weixin.qq.com/s/IMtL_m4sQAxqCmNWlw28Gw",
+    "Social Media": "https://mp.weixin.qq.com/s/IMtL_m4sQAxqCmNWlw28Gw",
+    "Social Media Type": "WeChat",
+    "Role": "Dataset Owner"
+  },
+  "Project": {
+    "Brief history of your project and organization": "The Second Life Universe Block is a digital hipster block with 3D printing and digital twins as the underlying technology, and a collection of 3D-printed real-life artefacts, 3D-printed coffee, and meta-universe experiences. Embrace the future, private ordering, self-realisation, and one-click construction of the second life of real human beings.",
+    "Is this project associated with other projects/ecosystem stakeholders?": "Yes",
+    "Describe the data being stored onto Filecoin": "For each 3D printed model, we need to take high-precision photos of the 360-degree panorama. The production photos for one model are up to tens of thousands of photos, and we will model the model in 3D. We need to store these photos, models and other data",
+    "Where was the data currently stored in this dataset sourced from": "My Own Storage Infra",
+    "How do you plan to prepare the dataset": "We currently store our data on our own work computers, and on servers in the server room. In the case of data from the computers we will transfer it over the network, and in the case of data from the server we can do hard drive mailing",
+    "Please share a sample of the data (a link to a file, an image, a table, etc., are good ways to do this.)": "You can check out the WeChat video number, the name of the account is \"第二人生3D真人手办\".",
+    "Confirm that this is a public dataset that can be retrieved by anyone on the network (i.e., no specific permissions or access rights are required to view the data)": "[X] I confirm",
+    "What is the expected retrieval frequency for this data": "Yearly",
+    "For how long do you plan to keep this dataset stored on Filecoin": "2 to 3 years",
+    "In which geographies do you plan on making storage deals": "Greater China, North America",
+    "How will you be distributing your data to storage providers": "HTTP or FTP server, IPFS",
+    "Please list the provider IDs and location of the storage providers you will be working with. Note that it is a requirement to list a minimum of 5 unique provider IDs, and that your client address will be verified against this list in the future": "f03079511 HK；\r\nf02327534 US；\r\nf02894855 China；\r\nf02826234 SG",
+    "Can you confirm that you will follow the Fil+ guideline (Data owner should engage at least 4 SPs and no single SP ID should receive >30% of a client's allocated DataCap)": "Yes"
+  },
+  "Datacap": {
+    "Type": "ldn-v3",
+    "Data Type": "Slingshot",
+    "Total Requested Amount": "3PiB",
+    "Single Size Dataset": "450TiB",
+    "Replicas": 7,
+    "Weekly Allocation": "1PiB"
+  },
+  "Lifecycle": {
+    "State": "Granted",
+    "Validated At": "2024-05-29 08:05:40.862050143 UTC",
+    "Validated By": "Lind111",
+    "Active": true,
+    "Updated At": "2024-05-29 08:07:30.812880040 UTC",
+    "Active Request ID": "2970f732-9f47-4d78-a7cb-29610d75c6ba",
+    "On Chain Address": "f1ilhecgewngpi3tplaarzkklihvdeko6p2bcishi",
+    "Multisig Address": "false",
+    "edited": false
+  },
+  "Allocation Requests": [
+    {
+      "ID": "2970f732-9f47-4d78-a7cb-29610d75c6ba",
+      "Request Type": "First",
+      "Created At": "2024-05-29 08:05:40.862056951 UTC",
+      "Updated At": "2024-05-29 08:05:40.862058547 UTC",
+      "Active": false,
+      "Allocation Amount": "150TiB",
+      "Signers": [
+        {
+          "Github Username": "Lind111",
+          "Signing Address": "f1edi46m4ry7smqnk3p6nb4azmcythf4bl57lw3uy",
+          "Created At": "2024-05-29 08:07:27.847000000 UTC",
+          "Message CID": "bafy2bzacebztbjpcgjdeew4xgfa7jktbfbryan65mys4hhpkmjuazio3aszfo"
+        }
+      ]
+    }
+  ]
+}
