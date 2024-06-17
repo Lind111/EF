@@ -39,8 +39,8 @@
     "Validated At": "2024-05-29 08:05:40.862050143 UTC",
     "Validated By": "Lind111",
     "Active": true,
-    "Updated At": "2024-06-07 08:28:09.851424672 UTC",
-    "Active Request ID": "82b4bbf2-c451-4f0a-b0f6-05eab383ac6d",
+    "Updated At": "2024-06-17 07:17:08.314763856 UTC",
+    "Active Request ID": "0e282197-fb11-48a8-b1ef-857b8be491e6",
     "On Chain Address": "f1ilhecgewngpi3tplaarzkklihvdeko6p2bcishi",
     "Multisig Address": "false",
     "edited": false
@@ -75,6 +75,22 @@
           "Signing Address": "f1edi46m4ry7smqnk3p6nb4azmcythf4bl57lw3uy",
           "Created At": "2024-06-07 08:28:06.596000000 UTC",
           "Message CID": "bafy2bzacedxeffx4xoalc6tdnbd3dtojy2cstagey7ymisbtwbibucc5xbwso"
+        }
+      ]
+    },
+    {
+      "ID": "0e282197-fb11-48a8-b1ef-857b8be491e6",
+      "Request Type": "Refill",
+      "Created At": "2024-06-07 10:00:04.294914659 UTC",
+      "Updated At": "2024-06-07 10:00:04.294916028 UTC",
+      "Active": false,
+      "Allocation Amount": "600TiB",
+      "Signers": [
+        {
+          "Github Username": "Lind111",
+          "Signing Address": "f1edi46m4ry7smqnk3p6nb4azmcythf4bl57lw3uy",
+          "Created At": "2024-06-17 07:17:06.218000000 UTC",
+          "Message CID": "bafy2bzacearcgarcfvz7z6tazepnl4r6764nr3wrwjuug6wunb67ungj3rkka"
         }
       ]
     }
