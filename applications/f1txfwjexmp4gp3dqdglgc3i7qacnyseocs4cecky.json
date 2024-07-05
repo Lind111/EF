@@ -12,7 +12,6 @@
     "Role": "Dataset Owner"
   },
   "Project": {
-    "Project Id": "1",
     "Brief history of your project and organization": "Xinjiang Nongyuan Jiaye Agricultural Investment Co., Ltd. was established on July 26, 2016, and its registered address is 604, Floor 6, Jiangnan Senior Apartment, Saiwai, No. 1096, Karamay West Street, Saybag District, Ürümqi, Xinjiang. Its legal representative is Li Zhifeng. The business scope includes agricultural technology extension services, crop planting, agricultural services, Agricultural science research and experimental development, agricultural tourism, import and export of goods and technology, online trade agents, software and information technology services, Information technology consulting consulting services, vocational skills training, poultry breeding; Sales: agricultural products, livestock products, fresh aquatic products, daily necessities, vegetables and fruits; Wholesale and retail: pre packaged food and bulk food.",
     "Is this project associated with other projects/ecosystem stakeholders?": "No",
     "Describe the data being stored onto Filecoin": "Video files include displays of farmland, various plants and animals, research data and images, etc",
@@ -36,14 +35,15 @@
     "Weekly Allocation": "1600TiB"
   },
   "Lifecycle": {
-    "State": "Granted",
+    "State": "ReadyToSign",
     "Validated At": "2024-04-02 07:10:36.961435752 UTC",
     "Validated By": "Lind111",
     "Active": true,
-    "Updated At": "2024-04-07 02:31:40.513321720 UTC",
-    "Active Request ID": "9fe25368-7c0c-4f49-afea-3962caabc7d1",
+    "Updated At": "2024-07-05 07:46:38.838910405 UTC",
+    "Active Request ID": "ca3d0895-fcb3-4dd4-a557-62cd07c99477",
     "On Chain Address": "f1txfwjexmp4gp3dqdglgc3i7qacnyseocs4cecky",
-    "Multisig Address": "false"
+    "Multisig Address": "false",
+    "edited": null
   },
   "Allocation Requests": [
     {
@@ -77,6 +77,15 @@
           "Message CID": "bafy2bzaceai427gsfxrfsrhjnfxhw2ji32f3phpvkwf7qodi6vkhcc7f2opes"
         }
       ]
+    },
+    {
+      "ID": "ca3d0895-fcb3-4dd4-a557-62cd07c99477",
+      "Request Type": "Refill",
+      "Created At": "2024-07-05 07:46:38.838917173 UTC",
+      "Updated At": "2024-07-05 07:46:38.838918580 UTC",
+      "Active": true,
+      "Allocation Amount": "2PiB",
+      "Signers": []
     }
   ]
 }
