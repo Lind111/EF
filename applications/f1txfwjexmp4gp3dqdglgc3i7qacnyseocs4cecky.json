@@ -1,5 +1,5 @@
 {
-  "Version": 1,
+  "Version": "1.3",
   "ID": "f1txfwjexmp4gp3dqdglgc3i7qacnyseocs4cecky",
   "Issue Number": "9",
   "Client": {
@@ -23,7 +23,7 @@
     "For how long do you plan to keep this dataset stored on Filecoin": "More than 3 years",
     "In which geographies do you plan on making storage deals": "Greater China, Asia other than Greater China, North America, South America, Europe",
     "How will you be distributing your data to storage providers": "HTTP or FTP server, Shipping hard drives",
-    "Please list the provider IDs and location of the storage providers you will be working with. Note that it is a requirement to list a minimum of 5 unique provider IDs, and that your client address will be verified against this list in the future": "f02770938 South Korea\r\nf02820008 Hong Kong\r\nf02237010 Tokyo\r\nf02093396 Singapore\r\nf02259777 Singapore\r\nf01888808 Romania",
+    "Please list the provider IDs and location of the storage providers you will be working with. Note that it is a requirement to list a minimum of 5 unique provider IDs, and that your client address will be verified against this list in the future": "f02770938 South Korea\r\nf02820008 Hong Kong\r\nf02237010 Tokyo\r\nf02093396 Singapore\r\nf02259777 Singapore\r\nf01888808 Romania\r\nf02866666  Tokyo\r\nf03144777  Tokyo\r\nf02820000  GuangZhou\r\nf02639655  GuangZhou\r\nf02588263  Hong Kong\r\nf02362412 California\r\nf02639492 California\r\nf03166666 Hongkong\r\nf03166668 Hongkong\r\nf02368946 Huhehaote\r\nf02822222 Hong Kong",
     "Can you confirm that you will follow the Fil+ guideline (Data owner should engage at least 4 SPs and no single SP ID should receive >30% of a client's allocated DataCap)": "Yes"
   },
   "Datacap": {
@@ -32,7 +32,7 @@
     "Total Requested Amount": "8PiB",
     "Single Size Dataset": "1.5PiB",
     "Replicas": 6,
-    "Weekly Allocation": "1600TiB"
+    "Weekly Allocation": "1PiB"
   },
   "Lifecycle": {
     "State": "ReadyToSign",
@@ -43,7 +43,7 @@
     "Active Request ID": "4c223da5-8407-4d42-8e24-f03d0507f84a",
     "On Chain Address": "f1txfwjexmp4gp3dqdglgc3i7qacnyseocs4cecky",
     "Multisig Address": "false",
-    "edited": null
+    "edited": true
   },
   "Allocation Requests": [
     {
