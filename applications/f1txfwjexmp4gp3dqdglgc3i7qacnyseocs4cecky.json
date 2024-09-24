@@ -31,7 +31,7 @@
     "Data Type": "Slingshot",
     "Total Requested Amount": "8PiB",
     "Single Size Dataset": "1.5PiB",
-    "Replicas": 6,
+    "Replicas": 11,
     "Weekly Allocation": "1PiB"
   },
   "Lifecycle": {
@@ -43,7 +43,7 @@
     "Active Request ID": "4c223da5-8407-4d42-8e24-f03d0507f84a",
     "On Chain Address": "f1txfwjexmp4gp3dqdglgc3i7qacnyseocs4cecky",
     "Multisig Address": "false",
-    "edited": false
+    "edited": true
   },
   "Allocation Requests": [
     {
