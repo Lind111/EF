@@ -1,0 +1,66 @@
+{
+  "Version": "1.3",
+  "ID": "f1cqgyehgspfzgmmyjah26ylftte3spg5sasqqjta",
+  "Issue Number": "34",
+  "Client": {
+    "Name": "Small Art Ltd.",
+    "Region": "United Kingdom",
+    "Industry": "Arts & Recreation",
+    "Website": "",
+    "Social Media": "",
+    "Social Media Type": "Slack",
+    "Role": "Dataset Owner"
+  },
+  "Project": {
+    "Brief history of your project and organization": "Company Background\r\n\r\nSmall Art Ltd., established on March 1, 2018, is headquartered in the British Virgin Islands (BVI). The company specializes in the creation, collection, and trading of small-scale artworks. Founded by a group of art enthusiasts, Small Art Ltd. aims to integrate art into modern life through innovative methods, allowing more people to experience the charm of miniature art. Focused on combining traditional and digital art, the company strives to drive the globalization of the small-scale art market.\r\n\r\nCore Business\r\n\r\n1.Miniature Art Creation and Customization Services\r\n•Offers bespoke miniature paintings, sculptures, and jewelry designs, especially for collectors and high-end clients.\r\n•Collaborates with renowned artists to release limited-edition miniature art pieces.\r\n\r\n2.Art Digitalization\r\n•Employs blockchain technology to provide clients with digital asset solutions for miniature art, ensuring authenticity and uniqueness.\r\n•Operates an online art trading platform, enabling global clients to browse and purchase artworks conveniently.\r\n\r\n3.Art Exhibitions and Education\r\n•Organizes annual miniature art tours in major cities worldwide.\r\n•Launches “Miniature Art Academy,” featuring online courses and offline workshops to promote art education.\r\n4.Investment Consulting Services\r\n•Offers valuation and investment advisory services for collectors and investors, particularly in the niche field of miniature art.\r\n\r\nDevelopment Milestones\r\n\r\n•2018: Focused on art trading services in the British Virgin Islands and neighboring regions during its early stages.\r\n•2019: Introduced digital technologies, enabling the digitization of artworks and the launch of NFT-based art trading, expanding its influence.\r\n•2020: Expanded into Asian and European markets, unveiling an online miniature art education platform that attracted over 100,000 registered students.\r\n•2022: Partnered with leading international art institutions to host the “World Miniature Art Expo,” which garnered over 500,000 attendees.\r\n\r\nFuture Vision\r\n\r\nSmall Art Ltd. aims to become a global leader in miniature art innovation by combining art and technology. The company seeks to make artworks more accessible while fostering cultural exchange on a global scale.",
+    "Is this project associated with other projects/ecosystem stakeholders?": "No",
+    "Describe the data being stored onto Filecoin": "1.Digitized Art Data\r\nOur miniature artworks are converted into high-resolution images, 3D models, and metadata (including descriptions, creation background, and artist information) using advanced scanning and digitization technologies. This ensures that the artworks can be showcased and traded globally while their authenticity and uniqueness are safeguarded through blockchain technology.\r\n2.NFT Metadata for Artworks\r\nSmall Art Ltd. frequently develops NFTs corresponding to our miniature art pieces. We store the metadata for these NFTs (e.g., artwork name, creator, creation date, and unique identifiers) along with the digital files of the artworks on Filecoin. This ensures their immutability and long-term preservation.\r\n3.Educational Content and Teaching Materials\r\nOur “Miniature Art Classroom” generates extensive educational resources, such as video courses, instructional demonstrations, artist interviews, and related materials. These resources are stored on the Filecoin network, making them accessible to global users anytime.\r\n4.Exhibition and Event Records\r\nRecordings, images, and documentation from Small Art Ltd.’s global miniature art exhibitions are securely stored for future reference and promotional purposes. These large, valuable files are well-suited for long-term storage on the Filecoin network.",
+    "Where was the data currently stored in this dataset sourced from": "My Own Storage Infra",
+    "How do you plan to prepare the dataset": "1.Digital Artworks Data Preparation\r\n•Data Collection: We use high-precision scanners (such as Phase One or Fujifilm’s high-end scanners) to capture high-resolution images of miniature artworks. For 3D artworks, we use 3D scanners (such as Artec Eva) to generate high-precision 3D models.\r\n•Data Formats: The scanned artwork images are saved in high-resolution JPEG or TIFF formats, while 3D models are saved in STL or OBJ formats. Additionally, each artwork is accompanied by metadata, such as artwork title, creation background, and artist information, which are stored in JSON format.\r\n•Processing Tools: During image and 3D model processing, we use tools such as Adobe Photoshop and Blender for editing and optimization to ensure the quality of images and the detail of models.\r\n2.NFT Metadata Preparation\r\n•NFT Metadata Generation: Each artwork is associated with an NFT, and corresponding metadata is generated, including artwork title, author, creation date, and unique identifier. We use smart contract platforms (such as Ethereum or Filecoin-supported NFT standards) to mint NFTs and store their metadata in IPFS (InterPlanetary File System) or directly on Filecoin.\r\n•Smart Contract Tools: We use the Truffle framework and Solidity to write smart contracts for minting and managing NFTs.\r\n3.Educational Content and Teaching Material Preparation\r\n•Video Courses and Educational Materials: All courses and teaching materials (e.g., videos, PPTs, PDF files) are edited and organized. We use Adobe Premiere and Final Cut Pro for video editing, and Microsoft PowerPoint or Keynote for course presentation creation. PDF files are converted into formats suitable for storage and transmission.\r\n•Storage and Management: All educational content is stored on the Filecoin network, with integrated Filecoin APIs and IPFS used for data uploading and management, ensuring the long-term storage and security of the content.\r\n4.Artwork Exhibitions and Event Records Preparation\r\n•Image and Photo Organization: Photos and videos of artwork exhibitions and event records are selected and optimized. We use Photoshop and DaVinci Resolve to process the footage to ensure the best visual quality.\r\n•Storage and Archiving: These large files (e.g., videos and high-resolution images) are uploaded to Filecoin for long-term storage, leveraging Filecoin’s distributed storage capabilities to ensure future access and promotional use.",
+    "Please share a sample of the data (a link to a file, an image, a table, etc., are good ways to do this.)": "https://www.youtube.com/@MaremiSmallArt/videos\r\n\r\nOne of the teacher’s videos.",
+    "Confirm that this is a public dataset that can be retrieved by anyone on the network (i.e., no specific permissions or access rights are required to view the data)": "[X] I confirm",
+    "What is the expected retrieval frequency for this data": "Monthly",
+    "For how long do you plan to keep this dataset stored on Filecoin": "2 to 3 years",
+    "In which geographies do you plan on making storage deals": "Greater China, Asia other than Greater China, North America",
+    "How will you be distributing your data to storage providers": "HTTP or FTP server, IPFS",
+    "Please list the provider IDs and location of the storage providers you will be working with. Note that it is a requirement to list a minimum of 5 unique provider IDs, and that your client address will be verified against this list in the future": "f01082888 HK\r\nf03081958 CHINA\r\nf01084413 SINGAPORE\r\nf01084941 HK\r\nf03228820 KOREA",
+    "Can you confirm that you will follow the Fil+ guideline (Data owner should engage at least 4 SPs and no single SP ID should receive >30% of a client's allocated DataCap)": "Yes"
+  },
+  "Datacap": {
+    "Type": "ldn-v3",
+    "Data Type": "Slingshot",
+    "Total Requested Amount": "4PiB",
+    "Single Size Dataset": "542TiB",
+    "Replicas": 7,
+    "Weekly Allocation": "800TiB"
+  },
+  "Lifecycle": {
+    "State": "Granted",
+    "Validated At": "2024-11-27 07:58:40.481114356 UTC",
+    "Validated By": "Lind111",
+    "Active": true,
+    "Updated At": "2024-11-27 07:58:40.481110414 UTC",
+    "Active Request ID": "904f67df-b489-4018-8147-6de342bc1f3b",
+    "On Chain Address": "f1cqgyehgspfzgmmyjah26ylftte3spg5sasqqjta",
+    "Multisig Address": "false",
+    "edited": false
+  },
+  "Allocation Requests": [
+    {
+      "ID": "904f67df-b489-4018-8147-6de342bc1f3b",
+      "Request Type": "First",
+      "Created At": "2024-11-27 07:56:01.860550502 UTC",
+      "Updated At": "2024-11-27 07:56:01.860551758 UTC",
+      "Active": false,
+      "Allocation Amount": "200TiB",
+      "Signers": [
+        {
+          "Github Username": "Lind111",
+          "Signing Address": "f1edi46m4ry7smqnk3p6nb4azmcythf4bl57lw3uy",
+          "Created At": "2024-11-27 07:58:38.361000000 UTC",
+          "Message CID": "bafy2bzacedxibb4f6rsptcczkl74so4rjaofwl4nthac4tep655iwlocfug2m"
+        }
+      ]
+    }
+  ]
+}
