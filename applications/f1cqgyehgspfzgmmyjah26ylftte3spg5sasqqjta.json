@@ -35,11 +35,11 @@
     "Weekly Allocation": "800TiB"
   },
   "Lifecycle": {
-    "State": "ReadyToSign",
-    "Validated At": "2024-12-03 08:44:39.835466477 UTC",
+    "State": "Granted",
+    "Validated At": "2024-12-03 08:46:44.583181498 UTC",
     "Validated By": "Lind111",
     "Active": true,
-    "Updated At": "2024-12-03 08:44:39.835470110 UTC",
+    "Updated At": "2024-12-03 08:46:44.583176790 UTC",
     "Active Request ID": "d49d8092-27fd-4e48-9602-21b5c313b1fd",
     "On Chain Address": "f1cqgyehgspfzgmmyjah26ylftte3spg5sasqqjta",
     "Multisig Address": "false",
@@ -83,9 +83,16 @@
       "Request Type": "Refill",
       "Created At": "2024-12-03 08:44:39.835474549 UTC",
       "Updated At": "2024-12-03 08:44:39.835475331 UTC",
-      "Active": true,
+      "Active": false,
       "Allocation Amount": "800TiB",
-      "Signers": []
+      "Signers": [
+        {
+          "Github Username": "Lind111",
+          "Signing Address": "f1edi46m4ry7smqnk3p6nb4azmcythf4bl57lw3uy",
+          "Created At": "2024-12-03 08:46:39.821000000 UTC",
+          "Message CID": "bafy2bzacea2kenm3dcjugafz4s6o2tgdmsl3lpuy7viwti6bjkai2mposzga4"
+        }
+      ]
     }
   ]
 }
