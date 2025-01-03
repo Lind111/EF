@@ -1,0 +1,66 @@
+{
+  "Version": "1.3",
+  "ID": "f1qjdocjsg7rfd3fo2qadt3orhspseuvamz2bccwi",
+  "Issue Number": "41",
+  "Client": {
+    "Name": "AME stadium",
+    "Region": "Hong Kong",
+    "Industry": "Information, Media & Telecommunications",
+    "Website": "https://www.ame.gg/",
+    "Social Media": "@amestadium",
+    "Social Media Type": "Other",
+    "Role": "Dataset Owner"
+  },
+  "Project": {
+    "Brief history of your project and organization": "Asia Motion E-Sports, the only e-sports organization in Hong Kong focusing on “Sports + E-Sports,” aims to revolutionize the current e-sports industry by integrating e-sports with sports, setting a new trend for the future! A brand-new chapter begins!",
+    "Is this project associated with other projects/ecosystem stakeholders?": "No",
+    "Describe the data being stored onto Filecoin": "We will have many photos and videos similar to those in the article. Each time different members visit our organization, their moments will be documented with photo records.",
+    "Where was the data currently stored in this dataset sourced from": "My Own Storage Infra",
+    "How do you plan to prepare the dataset": "I will mainly categorize the images and videos by theme, type, or time, and assign a standardized naming convention to the files. I will primarily use macOS Finder, Linux file manager, and Python. Additionally, I will ask our partners to convert the files into formats suitable for long-term storage and access. Finally, I will perform a unified compression, mainly using ZIP or TAR.",
+    "Please share a sample of the data (a link to a file, an image, a table, etc., are good ways to do this.)": "https://www.weekendhk.com/%e9%a6%99%e6%b8%af%e5%a5%bd%e5%8e%bb%e8%99%95/%e9%81%8b%e5%8b%95%e9%9b%bb%e7%ab%b6%e9%a4%a8-k11-%e5%b0%96%e6%b2%99%e5%92%80-%e9%81%8b%e5%8b%95-js03-1236403/9/\r\nhttps://www.youtube.com/watch?v=D7RbJ1OLKgE\r\nhttps://www.youtube.com/watch?v=edC9-PQpGkc\r\nhttps://www.youtube.com/watch?v=89zN2dk1J5s",
+    "Confirm that this is a public dataset that can be retrieved by anyone on the network (i.e., no specific permissions or access rights are required to view the data)": "[X] I confirm",
+    "What is the expected retrieval frequency for this data": "Yearly",
+    "For how long do you plan to keep this dataset stored on Filecoin": "1.5 to 2 years",
+    "In which geographies do you plan on making storage deals": "Greater China, North America",
+    "How will you be distributing your data to storage providers": "HTTP or FTP server, IPFS",
+    "Please list the provider IDs and location of the storage providers you will be working with. Note that it is a requirement to list a minimum of 5 unique provider IDs, and that your client address will be verified against this list in the future": "f01531188-hongkong\r\nf03238633-Singapore\r\nf03241413-dongguan\r\nf03241759-guangzhou",
+    "Can you confirm that you will follow the Fil+ guideline (Data owner should engage at least 4 SPs and no single SP ID should receive >30% of a client's allocated DataCap)": "Yes"
+  },
+  "Datacap": {
+    "Type": "ldn-v3",
+    "Data Type": "Slingshot",
+    "Total Requested Amount": "2.5PiB",
+    "Single Size Dataset": "650T",
+    "Replicas": 4,
+    "Weekly Allocation": "800TiB"
+  },
+  "Lifecycle": {
+    "State": "Granted",
+    "Validated At": "2025-01-03 10:09:36.135828983 UTC",
+    "Validated By": "Lind111",
+    "Active": true,
+    "Updated At": "2025-01-03 10:09:36.135825633 UTC",
+    "Active Request ID": "495eb8b2-3c15-4bf7-9f35-d649ed4773d3",
+    "On Chain Address": "f1qjdocjsg7rfd3fo2qadt3orhspseuvamz2bccwi",
+    "Multisig Address": "false",
+    "edited": false
+  },
+  "Allocation Requests": [
+    {
+      "ID": "495eb8b2-3c15-4bf7-9f35-d649ed4773d3",
+      "Request Type": "First",
+      "Created At": "2025-01-03 10:05:15.693617018 UTC",
+      "Updated At": "2025-01-03 10:05:15.693618125 UTC",
+      "Active": false,
+      "Allocation Amount": "128TiB",
+      "Signers": [
+        {
+          "Github Username": "Lind111",
+          "Signing Address": "f1edi46m4ry7smqnk3p6nb4azmcythf4bl57lw3uy",
+          "Created At": "2025-01-03 10:09:31.503000000 UTC",
+          "Message CID": "bafy2bzaceansratkeb4mnffq3aqr5um4fbfhpj7hzsuxj3irxpdyehodhekda"
+        }
+      ]
+    }
+  ]
+}
