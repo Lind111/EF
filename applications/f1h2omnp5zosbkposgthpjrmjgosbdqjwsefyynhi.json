@@ -1,0 +1,66 @@
+{
+  "Version": "1.3",
+  "ID": "f1h2omnp5zosbkposgthpjrmjgosbdqjwsefyynhi",
+  "Issue Number": "44",
+  "Client": {
+    "Name": "AME Stadium",
+    "Region": "Hong Kong",
+    "Industry": "Information, Media & Telecommunications",
+    "Website": "https://www.ame.gg/",
+    "Social Media": "AME Stadium",
+    "Social Media Type": "Other",
+    "Role": "Dataset Owner"
+  },
+  "Project": {
+    "Brief history of your project and organization": "Asia Motion E-Sports, the only e-sports organization in Hong Kong focusing on “Sports + E-Sports,” aims to revolutionize the current e-sports industry by integrating e-sports with sports, setting a new trend for the future! A brand-new chapter begins!",
+    "Is this project associated with other projects/ecosystem stakeholders?": "No",
+    "Describe the data being stored onto Filecoin": "We will have many photos and videos similar to those in the article, and every time different members visit our organization, their moments will be documented. Additionally, our company has several departments, and the primary data types are related to e-sports and sports.",
+    "Where was the data currently stored in this dataset sourced from": "My Own Storage Infra",
+    "How do you plan to prepare the dataset": "I will mainly categorize the images and videos by theme, type, or time, and assign a standardized naming convention to the files. I will primarily use macOS Finder, Linux file manager, and Python. Additionally, I will ask our partners to convert the files into formats suitable for long-term storage and access. Finally, I will perform a unified compression, mainly using ZIP or TAR.\n(Here is a note: we will primarily prepare the data as ZIP or TAR compressed files, making it easier for us to transfer to the storage provider (SP). The SP will assist us with data preprocessing and then help store the data on IPFS.)",
+    "Please share a sample of the data (a link to a file, an image, a table, etc., are good ways to do this.)": "https://www.youtube.com/watch?v=66rojXmoaeE\nhttps://www.youtube.com/@amestadium4714",
+    "Confirm that this is a public dataset that can be retrieved by anyone on the network (i.e., no specific permissions or access rights are required to view the data)": "[x] I confirm",
+    "What is the expected retrieval frequency for this data": "Yearly",
+    "For how long do you plan to keep this dataset stored on Filecoin": "1.5 to 2 years",
+    "In which geographies do you plan on making storage deals": "Greater China, North America",
+    "How will you be distributing your data to storage providers": "HTTP or FTP server, Cloud storage (i.e. S3)",
+    "Please list the provider IDs and location of the storage providers you will be working with. Note that it is a requirement to list a minimum of 5 unique provider IDs, and that your client address will be verified against this list in the future": "f01531188-hongkong\nf03238633-Singapore\nf03241413-dongguan\nf03241759-guangzhou",
+    "Can you confirm that you will follow the Fil+ guideline (Data owner should engage at least 4 SPs and no single SP ID should receive >30% of a client's allocated DataCap)": "Yes"
+  },
+  "Datacap": {
+    "Type": "ldn-v3",
+    "Data Type": "Slingshot",
+    "Total Requested Amount": "2.5PiB",
+    "Single Size Dataset": "650TiB",
+    "Replicas": 4,
+    "Weekly Allocation": "1PiB"
+  },
+  "Lifecycle": {
+    "State": "Granted",
+    "Validated At": "2025-01-17 07:07:06.636377783 UTC",
+    "Validated By": "Lind111",
+    "Active": true,
+    "Updated At": "2025-01-17 07:07:06.636373930 UTC",
+    "Active Request ID": "328d2c9d-4ed1-4c35-af06-b710c3e3ebaf",
+    "On Chain Address": "f1h2omnp5zosbkposgthpjrmjgosbdqjwsefyynhi",
+    "Multisig Address": "false",
+    "edited": false
+  },
+  "Allocation Requests": [
+    {
+      "ID": "328d2c9d-4ed1-4c35-af06-b710c3e3ebaf",
+      "Request Type": "First",
+      "Created At": "2025-01-17 07:04:21.970691038 UTC",
+      "Updated At": "2025-01-17 07:04:21.970691750 UTC",
+      "Active": false,
+      "Allocation Amount": "512TiB",
+      "Signers": [
+        {
+          "Github Username": "Lind111",
+          "Signing Address": "f1edi46m4ry7smqnk3p6nb4azmcythf4bl57lw3uy",
+          "Created At": "2025-01-17 07:07:03.526000000 UTC",
+          "Message CID": "bafy2bzacecgfajx62orhn6ydrc6tem2talxvebgsi64zya6gpgiewbh7yw7wi"
+        }
+      ]
+    }
+  ]
+}
