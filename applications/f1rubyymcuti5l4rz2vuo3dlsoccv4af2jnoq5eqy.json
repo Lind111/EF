@@ -16,7 +16,7 @@
     "Is this project associated with other projects/ecosystem stakeholders?": "No",
     "Describe the data being stored onto Filecoin": "With the continuous development of medical technology, modern medical means have far exceeded the traditional methods of diagnosis and treatment.  New technology allows doctors to diagnose conditions more accurately and choose more precise treatments.  For example, precision medicine can make personalized treatment plans based on a patient's genetic information and improve treatment results.  In addition, the application of new technologies such as telemedicine and big data analysis is also improving the quality and efficiency of medical services.",
     "Where was the data currently stored in this dataset sourced from": "My Own Storage Infra",
-    "How do you plan to prepare the dataset": "",
+    "How do you plan to prepare the dataset": "We will use the Boost tool and singularity\non this document: https://github.com/tech-greedy/singularity/blob/main/getting-started.md.",
     "Please share a sample of the data (a link to a file, an image, a table, etc., are good ways to do this.)": "https://pan.baidu.com/s/1mMWZ06Znbxc_ppcSHhGiiA?pwd=i96g",
     "Confirm that this is a public dataset that can be retrieved by anyone on the network (i.e., no specific permissions or access rights are required to view the data)": "[x] I confirm",
     "What is the expected retrieval frequency for this data": "Monthly",
