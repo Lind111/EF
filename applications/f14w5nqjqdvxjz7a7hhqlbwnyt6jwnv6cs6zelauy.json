@@ -1,0 +1,49 @@
+{
+  "Version": "1.3",
+  "ID": "f14w5nqjqdvxjz7a7hhqlbwnyt6jwnv6cs6zelauy",
+  "Issue Number": "59",
+  "Client": {
+    "Name": "Hami Melon",
+    "Region": "Hong Kong",
+    "Industry": "IT & Technology Services",
+    "Website": "",
+    "Social Media": "@mangobabyme",
+    "Social Media Type": "Other",
+    "Role": "Dataset Owner"
+  },
+  "Project": {
+    "Brief history of your project and organization": "Company Profile\n\nHami Melon Technology Ltd is a technology innovation company specializing in smart hardware and IoT solutions, headquartered in Hong Kong. The company is dedicated to the deep integration of cutting-edge artificial intelligence algorithms with practical hardware systems, delivering efficient, reliable, and cost-effective technological products that serve a wide range of sectors including smart agriculture, urban management, and security surveillance.\n\nThe name “Hami Melon” symbolizes the harmonious coexistence of nature and technology. It represents our mission to build a flexible bridge between complex data and real-world scenarios — like a sweet and intelligent “fruit” that gathers, transmits, and analyzes the most valuable data for users.\n\nOur core products include:\n\t•\tDrone-based Data Collection Systems (supporting high-precision mapping and crop monitoring)\n\t•\tEdge Computing Gateways and Sensor Networks (suitable for agricultural and industrial applications)\n\t•\tBlockchain-based Data Archiving and Verification Solutions (leveraging decentralized protocols such as Filecoin)\n\t•\tAI-powered Image Recognition and Intelligent Decision-Making Systems\n\nAt Hami Melon Technology, we firmly believe that “Technology should not be cold.” We are committed to creating solutions that address real-world needs and deliver long-term value for our partners. Currently, the company has established partnerships with government agencies and agricultural enterprises across mainland China and Southeast Asia, progressively building a region-wide intelligent sensing network.",
+    "Is this project associated with other projects/ecosystem stakeholders?": "No",
+    "Describe the data being stored onto Filecoin": "1.\tRaw Image and Video Data Collected by Drones\nUsed in scenarios such as agricultural monitoring, high-precision map creation, and disaster assessment. Distributed storage ensures the long-term preservation and secure access of large-volume, multi-source data.\n\t2.\tEnvironmental and Crop Data Collected by Edge Sensors\nIncludes temperature, humidity, light intensity, soil nutrients, pest and disease detection, etc. The data is generated continuously and requires high temporal accuracy. Filecoin is used for archival storage, enabling traceability and verification of the data.\n\t3.\tIntermediate and Output Data from AI Training and Inference Processes\nCovers image annotation datasets, training samples, and inference results, facilitating model optimization and performance traceability.\n\t4.\tEnterprise Operations and Regulatory Compliance Data Backup\nIncludes device operation logs, client reports, and project progress documents, which are shared with partners or submitted for regulatory review.\n\t5.\tOriginal Data and Hash Files for On-chain Storage and Proof\nSupports the construction of a “trusted data system” based on Filecoin, ensuring that key business data is tamper-proof and verifiable for integrity.",
+    "Where was the data currently stored in this dataset sourced from": "My Own Storage Infra",
+    "How do you plan to prepare the dataset": "1.\tImage and Video Preprocessing: Mainly using OpenCV for image cropping, rotation, and format conversion.\n\t2.\tData Annotation: Primarily using Label Studio or CVAT for labeling and annotation.\n\t3.\tFile Compression and Packaging: Utilizing tar + zstd (or gzip) to package data, improving upload efficiency.\n\t4.\tData Validation and Pre-Sealing Preparation: Relying on CID generation tools such as Lotus or Boost.",
+    "Please share a sample of the data (a link to a file, an image, a table, etc., are good ways to do this.)": "https://8.152.212.134:39405/down/5LBnwMvZMBLl.rar",
+    "Confirm that this is a public dataset that can be retrieved by anyone on the network (i.e., no specific permissions or access rights are required to view the data)": "[x] I confirm",
+    "What is the expected retrieval frequency for this data": "Never",
+    "For how long do you plan to keep this dataset stored on Filecoin": "Permanently",
+    "In which geographies do you plan on making storage deals": "Greater China",
+    "How will you be distributing your data to storage providers": "HTTP or FTP server, IPFS",
+    "Please list the provider IDs and location of the storage providers you will be working with. Note that it is a requirement to list a minimum of 5 unique provider IDs, and that your client address will be verified against this list in the future": "We are still in communication, but it will be confirmed this week. I will leave a message on GitHub once it’s finalized.",
+    "Can you confirm that you will follow the Fil+ guideline (Data owner should engage at least 4 SPs and no single SP ID should receive >30% of a client's allocated DataCap)": "Yes"
+  },
+  "Datacap": {
+    "Type": "ldn-v3",
+    "Data Type": "Slingshot",
+    "Total Requested Amount": "3PiB",
+    "Single Size Dataset": "400TiB",
+    "Replicas": 8,
+    "Weekly Allocation": "1PiB"
+  },
+  "Lifecycle": {
+    "State": "Submitted",
+    "Validated At": "",
+    "Validated By": "",
+    "Active": true,
+    "Updated At": "2025-05-23 09:15:40.130659390 UTC",
+    "Active Request ID": "",
+    "On Chain Address": "f14w5nqjqdvxjz7a7hhqlbwnyt6jwnv6cs6zelauy",
+    "Multisig Address": "false",
+    "edited": false
+  },
+  "Allocation Requests": []
+}
