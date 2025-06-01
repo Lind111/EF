@@ -23,7 +23,7 @@
     "For how long do you plan to keep this dataset stored on Filecoin": "Permanently",
     "In which geographies do you plan on making storage deals": "Greater China",
     "How will you be distributing your data to storage providers": "HTTP or FTP server, IPFS",
-    "Please list the provider IDs and location of the storage providers you will be working with. Note that it is a requirement to list a minimum of 5 unique provider IDs, and that your client address will be verified against this list in the future": "f03540144 - Philippines\nf03540147 - Philippines\nf03540153 - Singapore\nf03336022 - United Kingdom",
+    "Please list the provider IDs and location of the storage providers you will be working with. Note that it is a requirement to list a minimum of 5 unique provider IDs, and that your client address will be verified against this list in the future": "f03540144 - Philippines\nf03540147 - Philippines\nf03540153 - Singapore\nf03336022 - United Kingdom\nf03253411 - Shenzhen, Guangdong, CN\nf03321215 - Shenzhen, Guangdong, CN",
     "Can you confirm that you will follow the Fil+ guideline (Data owner should engage at least 4 SPs and no single SP ID should receive >30% of a client's allocated DataCap)": "Yes"
   },
   "Datacap": {
@@ -43,7 +43,7 @@
     "Active Request ID": "2b8b9297-a4dc-4279-80b9-6a8220daf219",
     "On Chain Address": "f14w5nqjqdvxjz7a7hhqlbwnyt6jwnv6cs6zelauy",
     "Multisig Address": "false",
-    "edited": false
+    "edited": true
   },
   "Allocation Requests": [
     {
