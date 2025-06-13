@@ -18,7 +18,7 @@
     "Where was the data currently stored in this dataset sourced from": "Other",
     "How do you plan to prepare the dataset": "",
     "Please share a sample of the data (a link to a file, an image, a table, etc., are good ways to do this.)": "https://drive.google.com/file/d/1hG8AgsgETv5LCLlxfVzuIdDB6JGbC_qr/view?usp=sharing\nhttps://drive.google.com/file/d/1buRWRyjkWDN0BZs8fudqK4S0M1Z81Ypn/view?usp=sharing\nhttps://drive.google.com/file/d/1q41gj9ukLgKZspFQlE_k68-x-2LecBNW/view?usp=sharing\nhttps://drive.google.com/file/d/11kbYwBFmPISpCY6WI82-ZDs5dA1uJmOY/view?usp=sharing\nhttps://drive.google.com/file/d/1ZufMoQ_ceXjimTSEJBDZR4_PP1u_fVk3/view?usp=sharing",
-    "Confirm that this is a public dataset that can be retrieved by anyone on the network (i.e., no specific permissions or access rights are required to view the data)": "[ ] I confirm",
+    "Confirm that this is a public dataset that can be retrieved by anyone on the network (i.e., no specific permissions or access rights are required to view the data)": "[x] I confirm",
     "What is the expected retrieval frequency for this data": "Yearly",
     "For how long do you plan to keep this dataset stored on Filecoin": "More than 3 years",
     "In which geographies do you plan on making storage deals": "Greater China, Asia other than Greater China, Europe, North America",
