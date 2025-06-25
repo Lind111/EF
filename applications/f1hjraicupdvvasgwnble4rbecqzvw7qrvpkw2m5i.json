@@ -1,0 +1,66 @@
+{
+  "Version": "1.3",
+  "ID": "f1hjraicupdvvasgwnble4rbecqzvw7qrvpkw2m5i",
+  "Issue Number": "78",
+  "Client": {
+    "Name": "Derong Medical Technology Co., Ltd",
+    "Region": "China",
+    "Industry": "Life Science / Healthcare",
+    "Website": "https://www.drongyl.com/",
+    "Social Media": "chenxiujun@drongyl.com",
+    "Social Media Type": "Other",
+    "Role": "Dataset Owner"
+  },
+  "Project": {
+    "Brief history of your project and organization": "Founded in 2015, Derong Medical Technology Co., Ltd. is a high-tech enterprise focusing on medical device technology research and development, healthcare investment management and healthcare informatization services.The company is headquartered in China and has branches and R&amp;D centers in many countries and regions around the world.\n\nAs a pioneer in the field of medical technology, we have always adhered to the development concept of \"innovation-driven, technology-led\", integrating the world's top medical resources to create intelligent medical solutions.The company has a professional team consisting of medical experts, engineers and management elites, dedicated to promoting the innovation and development of medical technology.\n\nDelong Medical Technology has successfully developed and launched a number of high-end medical devices with independent intellectual property rights, including surgical robotic systems, intracardiac ultrasound imaging systems, and extracorporeal ventricular assist devices, etc. The products are widely used in many medical fields such as cardiovascular, neurosurgery, orthopedics, etc., and provide advanced medical technology and equipment support for medical institutions around the world.",
+    "Is this project associated with other projects/ecosystem stakeholders?": "No",
+    "Describe the data being stored onto Filecoin": "Some of the medical information generated between 2015 and 2020 is mainly video recordings",
+    "Where was the data currently stored in this dataset sourced from": "My Own Storage Infra",
+    "How do you plan to prepare the dataset": "We will use the Boost tool and singularity",
+    "Please share a sample of the data (a link to a file, an image, a table, etc., are good ways to do this.)": "https://space.bilibili.com/3494368033901532/lists",
+    "Confirm that this is a public dataset that can be retrieved by anyone on the network (i.e., no specific permissions or access rights are required to view the data)": "[x] I confirm",
+    "What is the expected retrieval frequency for this data": "Yearly",
+    "For how long do you plan to keep this dataset stored on Filecoin": "More than 3 years",
+    "In which geographies do you plan on making storage deals": "Greater China, Asia other than Greater China, North America, South America, Europe",
+    "How will you be distributing your data to storage providers": "HTTP or FTP server, Shipping hard drives",
+    "Please list the provider IDs and location of the storage providers you will be working with. Note that it is a requirement to list a minimum of 5 unique provider IDs, and that your client address will be verified against this list in the future": "f03081960 CALIFORNIA\nf03081952 CALIFORNIA\nf03559991  GuangDong\nf03559992  GuangDong\nf03559993  GuangDong\nf03559994  GuangDong\nf03559995  GuangDong\nf03499888 foshan",
+    "Can you confirm that you will follow the Fil+ guideline (Data owner should engage at least 4 SPs and no single SP ID should receive >30% of a client's allocated DataCap)": "Yes"
+  },
+  "Datacap": {
+    "Type": "ldn-v3",
+    "Data Type": "Slingshot",
+    "Total Requested Amount": "8PiB",
+    "Single Size Dataset": "0.8PiB",
+    "Replicas": 10,
+    "Weekly Allocation": "3PiB"
+  },
+  "Lifecycle": {
+    "State": "Granted",
+    "Validated At": "2025-06-25 08:08:38.358922349 UTC",
+    "Validated By": "Lind111",
+    "Active": true,
+    "Updated At": "2025-06-25 08:08:38.358919133 UTC",
+    "Active Request ID": "704181d0-8485-4f2e-a6c9-db6d87931b92",
+    "On Chain Address": "f1hjraicupdvvasgwnble4rbecqzvw7qrvpkw2m5i",
+    "Multisig Address": "false",
+    "edited": false
+  },
+  "Allocation Requests": [
+    {
+      "ID": "704181d0-8485-4f2e-a6c9-db6d87931b92",
+      "Request Type": "First",
+      "Created At": "2025-06-25 08:06:54.237272955 UTC",
+      "Updated At": "2025-06-25 08:06:54.237274549 UTC",
+      "Active": false,
+      "Allocation Amount": "439804651110400 B",
+      "Signers": [
+        {
+          "Github Username": "Lind111",
+          "Signing Address": "f1edi46m4ry7smqnk3p6nb4azmcythf4bl57lw3uy",
+          "Created At": "2025-06-25 08:08:34.107000000 UTC",
+          "Message CID": "bafy2bzaceckr4zc6lq2po7i3a5g3hxrlprvar5gs3axtx6pyjoagshejirbgo"
+        }
+      ]
+    }
+  ]
+}
