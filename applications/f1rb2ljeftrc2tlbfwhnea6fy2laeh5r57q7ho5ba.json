@@ -2,6 +2,7 @@
   "Version": "1.3",
   "ID": "f1rb2ljeftrc2tlbfwhnea6fy2laeh5r57q7ho5ba",
   "Issue Number": "94",
+  "Client Contract Address": "f410fs72ei5u5zmtdtiahn7rb5jymjleoh2ztmu7cppq",
   "Client": {
     "Name": "Derong Medical Technology Co., Ltd",
     "Region": "China",
@@ -35,15 +36,25 @@
     "Weekly Allocation": "2PiB"
   },
   "Lifecycle": {
-    "State": "Submitted",
-    "Validated At": "",
-    "Validated By": "",
+    "State": "ReadyToSign",
+    "Validated At": "2025-09-04 16:25:08.602694925 UTC",
+    "Validated By": "Lind111",
     "Active": true,
-    "Updated At": "2025-09-04 14:42:57.587376460 UTC",
-    "Active Request ID": "",
+    "Updated At": "2025-09-04 16:25:08.602698621 UTC",
+    "Active Request ID": "399cb11d-5d86-4c9f-a07a-c8f6ef6e3357",
     "On Chain Address": "f1rb2ljeftrc2tlbfwhnea6fy2laeh5r57q7ho5ba",
     "Multisig Address": "false",
     "edited": false
   },
-  "Allocation Requests": []
+  "Allocation Requests": [
+    {
+      "ID": "399cb11d-5d86-4c9f-a07a-c8f6ef6e3357",
+      "Request Type": "First",
+      "Created At": "2025-09-04 16:25:08.602700583 UTC",
+      "Updated At": "2025-09-04 16:25:08.602701944 UTC",
+      "Active": true,
+      "Allocation Amount": "281474976710656 B",
+      "Signers": []
+    }
+  ]
 }
