@@ -36,11 +36,11 @@
     "Weekly Allocation": "2PiB"
   },
   "Lifecycle": {
-    "State": "ReadyToSign",
-    "Validated At": "2025-09-27 03:14:36.748406291 UTC",
+    "State": "Granted",
+    "Validated At": "2025-09-27 03:22:07.721201813 UTC",
     "Validated By": "Lind111",
     "Active": true,
-    "Updated At": "2025-09-27 03:14:36.748409376 UTC",
+    "Updated At": "2025-09-27 03:22:07.721198039 UTC",
     "Active Request ID": "6597ee38-d832-4b77-a60b-922c9fcb3b51",
     "On Chain Address": "f1rb2ljeftrc2tlbfwhnea6fy2laeh5r57q7ho5ba",
     "Multisig Address": "false",
@@ -140,9 +140,18 @@
       "Request Type": "Refill",
       "Created At": "2025-09-27 03:14:36.748416731 UTC",
       "Updated At": "2025-09-27 03:14:36.748417606 UTC",
-      "Active": true,
+      "Active": false,
       "Allocation Amount": "1407374883553280B",
-      "Signers": []
+      "Amount of Datacap Sent to Contract": "1407374883553280B",
+      "Signers": [
+        {
+          "Github Username": "Lind111",
+          "Signing Address": "f1edi46m4ry7smqnk3p6nb4azmcythf4bl57lw3uy",
+          "Created At": "2025-09-27 03:22:02.697000000 UTC",
+          "Message CID": "bafy2bzaceamvw43nj55jjcfnf7b3qm5tjcxm46qja5lqu3ydalrql4h4xazq4",
+          "Increase allowance CID": "bafy2bzaceamvcpgokbud5mgnnomydbqrjgkwtdafmvy5sveyo6derg236oix6"
+        }
+      ]
     }
   ],
   "Storage Providers Change Requests": [
