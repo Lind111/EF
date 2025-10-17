@@ -1,0 +1,49 @@
+{
+  "Version": "1.3",
+  "ID": "f1nq3ml3nktkrmzcf4uqbhgmc2qy62bqwpobjmuuy",
+  "Issue Number": "105",
+  "Client": {
+    "Name": "Guangdong Heavy Industry Architectural Design Institute Co., Ltd.",
+    "Region": "China",
+    "Industry": "Information, Media & Telecommunications",
+    "Website": "http://www.gdzgy.com/",
+    "Social Media": "http://www.gdzgy.com/",
+    "Social Media Type": "Other",
+    "Role": "Dataset Owner"
+  },
+  "Project": {
+    "Brief history of your project and organization": "Guangdong Heavy Industry Architectural Design Institute Co., Ltd. was restructured from the former Guangdong Fuel Industry Design Institute, established in 1959. Following its acquisition by Poly Development Holding Group Co., Ltd. and Guangdong Guangye Inspection and Testing Group Co., Ltd. in 2008, it was renamed. The institute is a comprehensive Class A design institute featuring comprehensive professional divisions, robust technical capabilities, extensive design experience, and excellent service standards. As of 2023, the company employs over 2,000 staff members. Headquartered in Guangzhou Science City, it operates two wholly-owned subsidiaries: Heavy Industry Supervision and Heavy Industry Technical Consulting. The company boasts over 460 registered professionals in architecture, structural engineering, public utilities, geotechnical engineering, and other disciplines, along with over 1,400 personnel holding master's, doctoral, or key undergraduate degrees. It also hosts a Guangdong Provincial Doctoral Workstation.\n\nThe company specializes in four core business segments: design, geotechnical engineering, supervision, and consulting. Its services span all phases and aspects of engineering construction projects, including planning, design, consulting, investigation, monitoring and surveying, supervision, and construction drawing review, delivering comprehensive, one-stop, full-process services from project initiation to handover. Projects span real estate, rail transit, public buildings, environmental protection, and industrial construction. Through years of development, the company has established a business network centered in Guangzhou, focused on Guangdong Province, and extending nationwide. Operations cover 42+ cities across 22 provinces, municipalities, and autonomous regions including Guangdong, Sichuan, Hunan, Hubei, Fujian, Hainan, Jiangsu, and Zhejiang, as well as select overseas cities.\n\nThe company places high importance on technological innovation, having accumulated a total of 409 patents, including 21 invention patents, 279 utility model patents, and 1 design patent. It holds 108 software copyrights and has participated in the compilation and publication of 56 standards. Its scientific and technological achievements have received domestic advanced or higher recognition in 45 cases, including 7 internationally leading, 12 internationally advanced, 18 domestically leading, and 8 domestically advanced.",
+    "Is this project associated with other projects/ecosystem stakeholders?": "No",
+    "Describe the data being stored onto Filecoin": "Some publicly accessible videos backed up by the company, such as construction documentation, architectural design presentations, corporate promotional materials, etc.",
+    "Where was the data currently stored in this dataset sourced from": "My Own Storage Infra",
+    "How do you plan to prepare the dataset": "https://github.com/tech-greedy/singularity/blob/main/getting-started.md\n\nUse this open source tool for data packaging and deal delivery",
+    "Please share a sample of the data (a link to a file, an image, a table, etc., are good ways to do this.)": "https://drive.google.com/drive/folders/1A3zmM6CaqhAjZeHdVEm2Z7ELX_TU6wS3?usp=drive_link",
+    "Confirm that this is a public dataset that can be retrieved by anyone on the network (i.e., no specific permissions or access rights are required to view the data)": "[x] I confirm",
+    "What is the expected retrieval frequency for this data": "Yearly",
+    "For how long do you plan to keep this dataset stored on Filecoin": "More than 3 years",
+    "In which geographies do you plan on making storage deals": "Greater China, Asia other than Greater China, South America, North America",
+    "How will you be distributing your data to storage providers": "Shipping hard drives, HTTP or FTP server",
+    "Please list the provider IDs and location of the storage providers you will be working with. Note that it is a requirement to list a minimum of 5 unique provider IDs, and that your client address will be verified against this list in the future": "f03573579 United States\nf03593579 United States\nf03573377 Thailand \nf03582468 Singapore\nf03588888 Hong Kong\nf02808899 Singapore\nf03175111 Thailand\nf03175168 Thailand",
+    "Can you confirm that you will follow the Fil+ guideline (Data owner should engage at least 4 SPs and no single SP ID should receive >30% of a client's allocated DataCap)": "Yes"
+  },
+  "Datacap": {
+    "Type": "ldn-v3",
+    "Data Type": "Slingshot",
+    "Total Requested Amount": "5PiB",
+    "Single Size Dataset": "640TiB",
+    "Replicas": 8,
+    "Weekly Allocation": "2PiB"
+  },
+  "Lifecycle": {
+    "State": "Submitted",
+    "Validated At": "",
+    "Validated By": "",
+    "Active": true,
+    "Updated At": "2025-10-17 15:55:42.276504469 UTC",
+    "Active Request ID": "",
+    "On Chain Address": "f1nq3ml3nktkrmzcf4uqbhgmc2qy62bqwpobjmuuy",
+    "Multisig Address": "false",
+    "edited": false
+  },
+  "Allocation Requests": []
+}
