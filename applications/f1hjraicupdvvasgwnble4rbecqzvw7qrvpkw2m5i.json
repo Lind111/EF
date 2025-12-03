@@ -35,12 +35,12 @@
     "Weekly Allocation": "3PiB"
   },
   "Lifecycle": {
-    "State": "Granted",
+    "State": "Declined",
     "Validated At": "2025-06-27 16:43:11.710914069 UTC",
     "Validated By": "Lind111",
-    "Active": true,
-    "Updated At": "2025-06-27 16:43:11.710910789 UTC",
-    "Active Request ID": "4a5f7790-684b-4db2-a1b8-bbfe114bb20c",
+    "Active": false,
+    "Updated At": "2025-12-03 06:29:08.261025113 UTC",
+    "Active Request ID": null,
     "On Chain Address": "f1hjraicupdvvasgwnble4rbecqzvw7qrvpkw2m5i",
     "Multisig Address": "false",
     "edited": false
