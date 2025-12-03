@@ -36,12 +36,12 @@
     "Weekly Allocation": "100TiB"
   },
   "Lifecycle": {
-    "State": "Granted",
+    "State": "Declined",
     "Validated At": "2025-09-03 12:52:14.128175853 UTC",
     "Validated By": "Lind111",
-    "Active": true,
-    "Updated At": "2025-09-03 12:52:14.128174823 UTC",
-    "Active Request ID": "73317a6a-401a-4fd0-b9f3-26c78acafd7c",
+    "Active": false,
+    "Updated At": "2025-12-03 06:28:36.084377650 UTC",
+    "Active Request ID": null,
     "On Chain Address": "f1mejhp6dzi7736fbtl6s7yuau36mg5yok54fn73a",
     "Multisig Address": "false",
     "edited": false
