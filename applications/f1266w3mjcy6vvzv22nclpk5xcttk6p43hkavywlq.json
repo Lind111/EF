@@ -12,7 +12,6 @@
     "Role": "Dataset Owner"
   },
   "Project": {
-    "Project Id": "1",
     "Brief history of your project and organization": "北京中农食用叶草自然科学研究院（前身为北京中科全脑自然科学研究所）成立于2018年，位于北京。它是一家主要从事研究和实验开发的企业。企业注册资本为人民币100万元。",
     "Is this project associated with other projects/ecosystem stakeholders?": "No",
     "Describe the data being stored onto Filecoin": "病毒核酸序列数据集、病毒核酸数据集、蛋白质序列数据库、细菌数据集、古菌数据集等",
@@ -36,14 +35,15 @@
     "Weekly Allocation": "1PiB"
   },
   "Lifecycle": {
-    "State": "Granted",
+    "State": "Declined",
     "Validated At": "2024-03-27 00:40:09.135039335 UTC",
     "Validated By": "Lind111",
-    "Active": true,
-    "Updated At": "2024-03-27 01:34:31.282153560 UTC",
-    "Active Request ID": "62b7ef0e-5f55-4d62-b977-3f62784ea9b0",
+    "Active": false,
+    "Updated At": "2025-12-03 06:31:09.122030499 UTC",
+    "Active Request ID": null,
     "On Chain Address": "f1266w3mjcy6vvzv22nclpk5xcttk6p43hkavywlq",
-    "Multisig Address": "false"
+    "Multisig Address": "false",
+    "edited": null
   },
   "Allocation Requests": [
     {
