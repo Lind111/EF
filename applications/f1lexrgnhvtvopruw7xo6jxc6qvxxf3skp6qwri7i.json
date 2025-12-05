@@ -2,6 +2,7 @@
   "Version": "1.3",
   "ID": "f1lexrgnhvtvopruw7xo6jxc6qvxxf3skp6qwri7i",
   "Issue Number": "131",
+  "Client Contract Address": "f410fs72ei5u5zmtdtiahn7rb5jymjleoh2ztmu7cppq",
   "Client": {
     "Name": "Travel Planet",
     "Region": "China",
@@ -35,15 +36,25 @@
     "Weekly Allocation": "2PiB"
   },
   "Lifecycle": {
-    "State": "Submitted",
-    "Validated At": "",
-    "Validated By": "",
+    "State": "ReadyToSign",
+    "Validated At": "2025-12-05 07:51:58.415373328 UTC",
+    "Validated By": "Lind111",
     "Active": true,
-    "Updated At": "2025-12-05 04:04:06.355535492 UTC",
-    "Active Request ID": "",
+    "Updated At": "2025-12-05 07:51:58.415377449 UTC",
+    "Active Request ID": "e9184f21-f7ec-4820-a71a-ac575a8dbad0",
     "On Chain Address": "f1lexrgnhvtvopruw7xo6jxc6qvxxf3skp6qwri7i",
     "Multisig Address": "false",
     "edited": false
   },
-  "Allocation Requests": []
+  "Allocation Requests": [
+    {
+      "ID": "e9184f21-f7ec-4820-a71a-ac575a8dbad0",
+      "Request Type": "First",
+      "Created At": "2025-12-05 07:51:58.415379580 UTC",
+      "Updated At": "2025-12-05 07:51:58.415380636 UTC",
+      "Active": true,
+      "Allocation Amount": "281474976710656 B",
+      "Signers": []
+    }
+  ]
 }
